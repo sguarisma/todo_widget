@@ -1,0 +1,4 @@
+Add celebratory confetti,false
+Add enter button capability,false
+Add edit tasks capability,false
+Improve UI,false
