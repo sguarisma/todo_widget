@@ -6,7 +6,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class WeatherService {
-    private static String API_KEY = "2c835f9488805b1694f446694a7704ff";
+    private static String API_KEY = KEY;
 
     public static Weather getWeather(String city) throws Exception {
         HttpClient client = HttpClient.newHttpClient();
